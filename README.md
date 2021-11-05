@@ -12,11 +12,14 @@ de cidades identificadas por seu ID.
 
 ## Informações
 
+Os dados climáticos obtidos pelas requisições seram salvos
+em um arquivo JSON na pasta data.
+
 Para replicação do projeto em qualquer máquina 
 foi criado o arquivo Dockerfile. 
 Para isto é necessario ter o Docker instalado em sua máquina.
-A descrição dos passos a serem seguidos se encontra logo abaixo.
 
+A descrição dos passos a serem seguidos se encontra logo abaixo.
 
 ### Deployment
 Copie e cole os scripts em destaque de acordo com as instruções.
