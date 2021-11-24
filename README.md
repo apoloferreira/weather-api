@@ -12,7 +12,7 @@ de cidades identificadas por seu ID.
 
 ## Informações
 
-Os dados climáticos obtidos pelas requisições seram salvos
+Os dados climáticos obtidos pelas requisições serão salvos
 em um arquivo JSON na pasta data.
 
 Para replicação do projeto em qualquer máquina 
